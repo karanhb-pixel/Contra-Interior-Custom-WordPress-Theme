@@ -79,7 +79,35 @@ See the full website here:
 ---
 
 ## 📸 Screenshots
-*(Place screenshots in a `/screenshots` folder, link them here. Example below:)*
+Below are some screenshots from the theme.  
+Images are stored in the `/Images/` folder of the repository.
+
+## *HomePage*
+<!-- This is a comment and will not appear in the rendered README -->
+
+<!--![Homepage Screenshot](Images/Homepage.png) -->
+<img src="Images/Homepage.png" width="45%" alt="Homepage Screenshot">
+
+## *About US*
+<img src="Images/about.png" width="45%" alt="About US Screenshot">
+
+## *Blog*
+<img src="Images/blog.png" width="45%" alt="Blog Screenshot">
+
+## *Contact*
+<img src="Images/contact.png" width="45%" alt="Contact Screenshot">
+
+## *Projects*
+<img src="Images/projects.png" width="45%" alt="Projects Screenshot">
+
+## *Services*
+<img src="Images/services.png" width="45%" alt="Services Screenshot">
+
+## *Single-Blog*
+<img src="Images/single-blog.png" width="45%" alt="Single-Blog Screenshot">
+
+## *Project-single*
+<img src="Images/project-single.png" width="45%" alt="Project-Single Screenshot">
 
 
 ---
