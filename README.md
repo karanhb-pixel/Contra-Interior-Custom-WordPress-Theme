@@ -50,4 +50,80 @@ Included custom shortcodes:
 ---
 
 ## 🗂️ Directory Structure
+your-theme-name/
+│
+├── assets/
+│ ├── css/
+│ ├── js/
+│ └── images/
+│
+├── custom-post-type/
+│ ├── project-shortcode.php
+│ ├── team-shortcode.php
+│ └── news-post-shortcode.php
+│ └── (optional) project-post-type.php
+│
+├── inc/
+│ ├── customizer.php
+│ ├── template-functions.php
+│ ├── template-tags.php
+│ └── custom-header.php
+│
+├── template-parts/
+│
+├── header.php
+├── footer.php
+├── functions.php
+├── index.php
+├── page.php
+├── single.php
+├── front-page.php (if used)
+└── style.css
 
+
+
+---
+
+## ⚙️ Installation
+
+1. Download the theme folder  
+2. Place it into:  
+   `wp-content/themes/`
+3. Activate it from **Appearance → Themes**
+4. Install and activate **ACF Pro**  
+5. Import ACF JSON (if included)
+6. Configure menus, widgets, and add ACF data  
+
+---
+
+## 🧪 Requirements
+- WordPress 6.x+
+- PHP 7.4 or higher
+- ACF Pro plugin installed
+- MySQL database
+
+---
+
+## 🌐 Live Demo
+See the full website here:  
+**https://contra-interior-creator.infinityfreeapp.com/**
+
+---
+
+## 📸 Screenshots
+*(Place screenshots in a `/screenshots` folder, link them here. Example below:)*
+
+
+---
+
+## 🧑‍💻 Author
+**Karan Bhanushali**  
+WordPress Developer | PHP | ACF | Theme Development  
+
+If you like this theme, feel free to ⭐ star the repository!
+
+---
+
+## 📜 License
+This theme is for demonstration and learning purposes.  
+Commercial reuse of the original HTML template may require proper licensing.
