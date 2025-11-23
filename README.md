@@ -50,6 +50,7 @@ Included custom shortcodes:
 ---
 
 ## 🗂️ Directory Structure
+```
 your-theme-name/
 │
 ├── assets/
@@ -80,7 +81,7 @@ your-theme-name/
 ├── front-page.php (if used)
 └── style.css
 
-
+```
 
 ---
 
