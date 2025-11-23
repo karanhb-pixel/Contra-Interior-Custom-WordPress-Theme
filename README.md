@@ -47,41 +47,8 @@ Included custom shortcodes:
 - Custom sliders using Owl Carousel  
 - Fancybox gallery support
 
----
-
-## 🗂️ Directory Structure
-```
-your-theme-name/
-│
-├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
-│
-├── custom-post-type/
-│ ├── project-shortcode.php
-│ ├── team-shortcode.php
-│ └── news-post-shortcode.php
-│ └── (optional) project-post-type.php
-│
-├── inc/
-│ ├── customizer.php
-│ ├── template-functions.php
-│ ├── template-tags.php
-│ └── custom-header.php
-│
-├── template-parts/
-│
-├── header.php
-├── footer.php
-├── functions.php
-├── index.php
-├── page.php
-├── single.php
-├── front-page.php (if used)
-└── style.css
-
-```
+### ACF JSON
+All ACF field groups are stored in `/acf-json/` so that the theme automatically loads the correct fields when activated.
 
 ---
 
